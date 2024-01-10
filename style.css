@@ -1,0 +1,121 @@
+.banner{
+    background-image: url('images/Banner\ Image.png');
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+   margin:0 auto;
+    
+}
+.tex-1{
+     text-align: center;
+     color: #FFF;
+    padding: 16px;
+text-align: center;
+font-size: 32px;
+font-weight: 400;
+
+
+}
+
+.tex-title {
+     color: #F00;
+     text-align: center;
+     font-size: 50px;
+     font-weight: 700;
+   margin-bottom: auto;
+     
+     
+}
+.section{
+     color: black;
+    margin-top: -55px;
+    
+
+}
+.banner-2{
+     background-image: url('images/Vectorrr.png');
+     background-repeat: no-repeat;
+     width: 1320px;
+    height: 600px;
+   margin:0 auto;
+  
+   
+}
+.tex-2{
+     color:#FFF;
+     /* text-align:center ; */
+   font-size: 50px;  
+   width: 500px;
+   margin-left: 200px;
+   
+}
+.paragrap{
+     font-size: 12px;
+   
+}
+
+span{
+     color: #F00;
+}
+.baton{
+     font-size: 25px;
+    background-color: #ff000f;
+    color: #FFF;
+    width: 200px;
+    height: 80px;
+    border-radius:10px;
+    border: none;
+}
+
+.banne-3{
+     margin-top: 160px;
+     position: absolute;
+    margin-left: 450px;
+    font-size: 25px;
+    font-weight: 800;
+    
+    
+}
+.section1{
+    max-width: 1320px;
+    background-color: rgb(234, 225, 226);
+    margin: 0 auto;
+    margin-top: 100px;
+    text-align: center;
+    height: 482px;
+    
+}
+.section3{
+     max-width: 1320px;
+     margin: 0 auto;
+     display: flex;
+     margin-top: 100px;
+     
+}
+.div-section{
+     display: flex;
+     padding: 10px;
+}
+p{
+     color: gray;
+}
+.img-section{
+     width: 1600px;
+     margin:0 auto;
+     margin-top: 100px;
+
+    
+
+}
+.Subscribe{
+     max-width: 1320px;
+     
+     background-color: rgba(255, 0, 0, 0.05);
+    
+     margin:0 auto;
+     margin-top: 100px;
+     height: 620px;
+     margin-left: 590px;
+     text-align: center;
+}
+  
